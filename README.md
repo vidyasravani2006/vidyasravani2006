@@ -7,11 +7,11 @@
 <h1 align="center">Hi 👋, I'm Vidya Sravani</h1>
 
 <h3 align="center">
-Frontend Developer | React.js Developer | Computer Science Engineering Student
+Software Developer | Computer Science Engineering Student
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=1E90FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+Developer;Building+Responsive+Web+Applications;Always+Learning+New+Technologies"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=1E90FF&center=true&vCenter=true&width=750&lines=Software+Developer;Building+Responsive+Web+Applications;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
@@ -37,10 +37,10 @@ Frontend Developer | React.js Developer | Computer Science Engineering Student
 # 👩‍💻 About Me
 
 - 🎓 Final Year Computer Science Engineering Student
-- 💻 Passionate about building responsive and user-friendly web applications
-- ⚛️ Skilled in **React.js, JavaScript, HTML5, CSS3, Java, and SQL**
-- 🌱 Currently working on **Parkinson's Disease Detection using Deep Learning**
-- 🚀 Looking for **Frontend Developer** opportunities
+- 💻 Passionate about Software Development and building responsive, user-friendly web applications
+- 🚀 Skilled in **Java, Python, JavaScript, HTML5, CSS3, React.js, SQL, Git, and GitHub**
+- 🤖 Interested in **Machine Learning, Cybersecurity, and Software Engineering**
+- 🎯 Looking for **Software Developer** opportunities
 
 ---
 
@@ -48,11 +48,9 @@ Frontend Developer | React.js Developer | Computer Science Engineering Student
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🎯 **Campus Placement Tracker** | Responsive web application for managing campus placements, company details and student applications. | React.js, HTML, CSS, JavaScript |
-| 🧠 **Parkinson's Disease Detection** *(Ongoing)* | Voice-based Parkinson's disease detection using deep learning and audio feature extraction. | Python, Deep Learning |
-| 🛡️ **Multi-Class Detection of Different IoMT Attacks** | Machine learning model for detecting and classifying cyber attacks in IoMT networks. | Python, Machine Learning |
-| 📊 **Software Defect Prediction** | Predictive model for identifying software defects and improving software quality. | Python, Machine Learning |
-| ⚙️ **Compiler Project** | Educational compiler capable of syntax and semantic error detection. | Java |
+| 🎯 **Campus Placement Tracker** | Responsive web application for managing campus placements, company details, student applications, and recruitment schedules. | React.js, HTML, CSS, JavaScript |
+| 🛡️ **Multi-Class Detection of Different IoMT Attacks** | Machine learning model for detecting and classifying cyber attacks in IoMT networks using network traffic data. | Python, Machine Learning |
+| 📊 **Software Defect Prediction** | Machine learning-based system that predicts defect-prone software modules using software metrics to improve software quality. | Python, Scikit-learn |
 
 ---
 
@@ -71,6 +69,7 @@ Frontend Developer | React.js Developer | Computer Science Engineering Student
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
@@ -92,11 +91,11 @@ Frontend Developer | React.js Developer | Computer Science Engineering Student
 ---
 
 <p align="center">
-<i>"Building responsive web applications with creativity, clean code, and continuous learning."</i>
+<i>"Building reliable software through clean code, continuous learning, and innovation."</i>
 </p>
 
 <p align="center">
-✨ Open to Frontend Developer and Web Developer opportunities.
+✨ Open to Software Developer opportunities.
 </p>
 
 <p align="center">
